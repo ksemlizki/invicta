@@ -10700,3 +10700,17 @@ a.bh-link-primary:focus {
 [data-uk-slider]:hover .bh-slider-next {
   display: block !important;
 }
+
+.invicta_bg {
+	background-image: url("../images/23.jpg");
+	background-color: #fff;
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
+
+@media only screen and (min-width: 1200px) {
+   .invicta_bg {
+	background-position: center;
+   }
+}

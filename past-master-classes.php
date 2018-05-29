@@ -25,7 +25,7 @@
 
         <?php include ("header.php"); ?>
 
-<div class="bh-position-title" style="background: #fff url(images/23.jpg)fixed; background-repeat: no-repeat;">
+<div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
             <h1>Прошедшие мастер классы</h1>
@@ -51,10 +51,10 @@
                                     <div class="uk-width-1-3 uk-grid-margin">
 									<h2 class="uk-h4">Денис Давыдов</h2>
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-1.jpg" width="400" height="300" alt="Денис Давыдов" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-1.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-1.jpg" data-uk-lightbox="{group:'my-group2'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -63,10 +63,10 @@
                                     <div class="uk-width-1-3 uk-grid-margin">
 									<h2 class="uk-h4">Елена Макарова</h2>
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-2.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-2.jpg" width="400" height="300" alt="Елена Макарова" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-2.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-2.jpg" data-uk-lightbox="{group:'my-group2'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -75,10 +75,10 @@
                                     <div class="uk-width-1-3 uk-grid-margin">
 									<h2 class="uk-h4">Наталья Смирнова</h2>
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-3.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-3.jpg" width="400" height="300" alt="Наталья Смирнова" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-3.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-3.jpg" data-uk-lightbox="{group:'my-group2'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -87,10 +87,10 @@
                                     <div class="uk-width-1-3 uk-grid-margin">
 									<h2 class="uk-h4">Екатерина Боровая</h2>
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-4.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-4.jpg" width="400" height="300" alt="Екатерина Боровая" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-4.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-4.jpg" data-uk-lightbox="{group:'my-group2'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -98,10 +98,10 @@
                                     <div class="uk-width-1-3 uk-grid-margin">
 									<h2 class="uk-h4">Алексей Хвесеня</h2>
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-5-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-5-1.jpg" width="400" height="300" alt="Алексей Хвесеня" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-5.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-5.jpg" data-uk-lightbox="{group:'my-group2'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -109,10 +109,10 @@
                                     <div class="uk-width-1-3 uk-grid-margin">
 									<h2 class="uk-h4">Ксения Генералова</h2>
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-6-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-6-1.jpg" width="400" height="300" alt="Ксения Генералова" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-6.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-6.jpg" data-uk-lightbox="{group:'my-group2'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -152,10 +152,10 @@
 
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-7.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-7.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-7.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-7.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -163,10 +163,10 @@
 									
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-8.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-8.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-8.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-8.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -174,10 +174,10 @@
 
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-9.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-9.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-9.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-9.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -185,10 +185,10 @@
 
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/past-master-classes-10-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/last-master-class/past-master-classes-10-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/past-master-classes-10.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/last-master-class/past-master-classes-10.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
 											</div>
 											</figcaption>
 										</figure>

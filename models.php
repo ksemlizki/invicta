@@ -25,7 +25,7 @@
 
         <?php include ("header.php"); ?>
 
-<div class="bh-position-title" style="background: #fff url(images/23.jpg)fixed; background-repeat: no-repeat;">
+<div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
             <h1>Моделям</h1>

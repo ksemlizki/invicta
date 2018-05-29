@@ -25,7 +25,7 @@
 
         <?php include ("header.php"); ?>
 
-<div class="bh-position-title" style="background: #fff url(images/23.jpg)fixed; background-repeat: no-repeat;">
+<div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
             <h1>Документы центра «Invicta»</h1>
@@ -50,10 +50,10 @@
 
                                     <div class="uk-width-1-3 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-1.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-1.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -61,10 +61,10 @@
 									
                                     <div class="uk-width-1-3 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-2.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-2.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-2.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-2.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -72,10 +72,10 @@
 
                                     <div class="uk-width-1-3 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-3.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-3.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-3.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-3.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -83,40 +83,40 @@
 
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-4.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-4.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-4.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-4.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-5.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-5.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-5.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-5.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-6.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-6.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-6.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-6.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-4 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-7.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-7.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-7.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-7.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -124,30 +124,30 @@
 
                                     <div class="uk-width-1-6 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-8.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-8.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-8.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-8.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-6 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-9.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-9.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-9.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-9.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-6 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-10.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-10.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-10.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-10.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
@@ -155,30 +155,30 @@
 
                                     <div class="uk-width-1-6 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-11.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-11.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-11.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-11.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-6 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-12.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-12.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-12.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-12.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>
                                     </div>
                                     <div class="uk-width-1-6 uk-grid-margin">
                                         <figure class="uk-overlay uk-overlay-hover">
-										<img src="images/documentation-13.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
+										<img src="images/documents/documentation-13.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail">
 											<figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
 											<div>
-                                            <a class="uk-position-cover" href="images/documentation-13.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/documents/documentation-13.jpg" data-uk-lightbox="{group:'my-group'}"></a>
 											</div>
 											</figcaption>
 										</figure>

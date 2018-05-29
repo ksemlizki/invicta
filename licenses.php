@@ -25,7 +25,7 @@
 
         <?php include ("header.php"); ?>
 
-<div class="bh-position-title" style="background: #fff url(images/23.jpg)fixed; background-repeat: no-repeat;">
+<div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
             <h1>Лицензии центра «Invicta»</h1>
@@ -39,10 +39,10 @@
 				<div class="uk-width-medium-1-3">
 					<div class="uk-panel uk-text-right uk-text-center-small  uk-flex-middle" >
                             <figure class="uk-overlay uk-overlay-hover">
-							<img src="images/licenses-1.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail" >
+							<img src="images/licenses-1.jpg" width="400" height="300" alt="Лицензия на осуществление образовательной деятельности" class="uk-thumbnail" >
 							        <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
                                         <div>
-                                            <a class="uk-position-cover" href="images/licenses-1.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/licenses-1.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
                                         </div>
                                     </figcaption>
 							</figure>	
@@ -55,7 +55,7 @@
 							<img src="images/licenses-2.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail" >
 							        <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
                                         <div>
-                                            <a class="uk-position-cover" href="images/licenses-2.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/licenses-2.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
                                         </div>
                                     </figcaption>
 							</figure>	
@@ -68,7 +68,7 @@
 							<img src="images/licenses-3.jpg" width="400" height="300" alt="Placeholder" class="uk-thumbnail" >
 							        <figcaption class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
                                         <div>
-                                            <a class="uk-position-cover" href="images/licenses-3.jpg" data-uk-lightbox=""></a>
+                                            <a class="uk-position-cover" href="images/licenses-3.jpg" data-uk-lightbox="{group:'my-group1'}"></a>
                                         </div>
                                     </figcaption>
 							</figure>	
