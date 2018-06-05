@@ -46,10 +46,10 @@ $message = ('
 include "class.phpmailer.php";// подключаем класс
 
 $mail = new PHPMailer();
-$mail->From = "invictaglobal.ru";
+$mail->From = "arinvicta.com";
 $mail->Subject = "Тема письма";
 $mail->FromName = "Отправитель";
-$mail->AddAddress('invicta39@mail.ru');
+$mail->AddAddress('arinvictakd@gmail.com');
 $mail->IsHTML(true);
 if(isset($_FILES['files']))
 {
@@ -68,7 +68,7 @@ margin-top: 12px;
 font-family: roboto;
 font-size: 20pt;
 font-weight: 200;
-line-height: 1.2em;">Спасибо за отправку запроса. Мы свяжемся с вами.<br><a href="/">Нажмите, чтобы вернуться на главную страницу</b><img src="http://invictaglobal.ru/done.jpg" alt="Сделано!" title="Сделано!" style="margin: 0px auto;display: block;margin-top: 27px"/></a>'
+line-height: 1.2em;">Спасибо за отправку запроса. Мы свяжемся с вами.<br><a href="/">Нажмите, чтобы вернуться на главную страницу</b><img src="http://arinvicta.com/done.jpg" alt="Сделано!" title="Сделано!" style="margin: 0px auto;display: block;margin-top: 27px"/></a>'
 <?php 
 }
 if (!empty($_POST['submit'])) send_mail();

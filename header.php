@@ -59,8 +59,8 @@
                             <ul class="uk-list">
                                 <li data-uk-margin="">
                                     <a href="https://www.instagram.com/shaigardanova39/" class="uk-icon-button uk-icon-instagram" target="_blank"></a>
-                                    <a href="#" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
-                                    <a href="https://vk.com/invicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
+                                    <a href="https://facebook.com/troitskayaklgd" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                                    <a href="https://vk.com/arinvicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
                                 </li>
                             </ul>
                 </div>
@@ -71,7 +71,7 @@
                             
                             <li class="uk-hidden-small">
                                <i class=" uk-icon-phone"></i> &nbsp;<span style="font-size: 18.5px;">8-921-613-34-54</span><br>
-							   <i class="uk-icon-envelope-o"></i> &nbsp;<span style="font-size: 16px;">invicta39@mail.ru</span>
+							   <i class="uk-icon-envelope-o"></i> &nbsp;<span style="font-size: 16px;">  <a href="mailto:arinvictakd@gmail.com">arinvictakd@gmail.com </a></span>
                             </li>
                             
                         </ul>

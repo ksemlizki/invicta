@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Invicta</title>
+        <title>Arinvicta</title>
 		<meta name="description" content="Контакты">
 		<meta name="author" content="Контакты">
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
@@ -44,7 +44,7 @@
 					Если у Вас остались вопросы или Вы хотели бы сотрудничать - напишите нам.
 					Мы свяжемся с Вами в ближайшее время.	</p>			
 									<!--- Стандартная форма №2 !--->
-					<form action="http://invictaglobal.ru/formsend.php" enctype="multipart/form-data" method="post" class="style2">
+					<form action="http://arinvicta.com/formsend.php" enctype="multipart/form-data" method="post" class="style2">
 
 					<table style="width: 100%; margin: 0 auto;" cellspacing="0">
 					<tbody>
@@ -117,15 +117,15 @@
                                     </div>
 
                                     <div class="uk-width-8-10" style="font: normal 18px / 26px 'Droid Serif', serif;">
-                                        <a href="mailto:invicta39@mail.ru"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">invicta39@mail.ru</font></font></a>
+                                        <a href="mailto:arinvictakd@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font></font></a>
                                     </div>
                                 </div>
                             </li>
                         </ul>
                         <h4  style="margin-top: 0px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Подписывайтесь на нас</font></font></h4>
                         <a href="https://www.instagram.com/shaigardanova39/" class="uk-icon-button uk-icon-instagram" target="_blank"></a>
-                        <a href="#" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
-                        <a href="https://m.vk.com/invicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
+                        <a href="https://facebook.com/troitskayaklgd" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                        <a href="https://vk.com/arinvicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
 						
 						<p style="font: normal 20px / 26px 'Droid Serif', serif;">По вопросам сотрудничества и франчайзинга - troitskayaklgd@mail.ru</p>
                     </div>

@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Invicta</title>
+        <title>Arinvicta</title>
 		<meta name="description" content="О нас">
 		<meta name="author" content="О нас">
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
@@ -22,9 +22,9 @@
     </head>
 
     <body>
+<div class="uk-container uk-container-center" style="width: 1600px">
 
         <?php include ("header.php"); ?>
-
 <div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
@@ -46,7 +46,7 @@
 				<div class="uk-width-medium-4-6 uk-text-center-small">
 					<div class="uk-panel" style="min-height: 81px;">
 						<p style="font: normal 20px / 26px 'Droid Serif', serif; text-align: justify;">
-						<b>Международный учебный центр INVICTA</b> - динамично развивающаяся компания, основанная в 2013 году. Основной принцип нашего развития - качество услуг. Для нас это не пустой звук! У нас лучшие поставщики, лучшие мастера, один из лучших центров в России и Европе, который готовит высококлассные кадры по европейским стандартам и при этом работает как полноценный салон красоты.<br>
+						<b>Международный учебный центр ARINVICTA</b> - динамично развивающаяся компания, основанная в 2013 году. Основной принцип нашего развития - качество услуг. Для нас это не пустой звук! У нас лучшие поставщики, лучшие мастера, один из лучших центров в России и Европе, который готовит высококлассные кадры по европейским стандартам и при этом работает как полноценный салон красоты.<br>
 						Мастера центра владеют уникальными техниками перманентного макияжа и микроблейдинга - без боли и крови. Одна из них - реконструкция бровей "Волоски без повреждения кожи" - High Quality Line Brows.<br>
 						За время существования центра дипломы выданы ученикам из России, Германии, Португалии, Израиля, Англии, Латвии, Америки, Украины.<br><br>
 
@@ -129,7 +129,7 @@
 	<p style="font: 400 26px/30px 'Droid Serif', serif; margin: 0 0 10px 0; text-align: center; ">ОСТАВЬТЕ ЗАЯВКУ</p>	
 
 <!--- Стандартная форма №2 !--->
-					<form action="http://invictaglobal.ru/formsend.php" enctype="multipart/form-data" method="post" class="style2">
+					<form action="http://arinvicta.com/formsend.php" enctype="multipart/form-data" method="post" class="style2">
 
 					<table style="width: 100%; margin: 0 auto;" cellspacing="0">
 					<tbody>
@@ -216,7 +216,7 @@
                         </div>
 
                         <div class="uk-width-5-6">
-                            <h2 class="uk-h3">лет работы центра<br>Invicta</h2>
+                            <h2 class="uk-h3">лет работы центра<br>Arinvicta</h2>
 
                         </div>
 
@@ -252,7 +252,7 @@
 					 <h3 class="uk-panel-title" style="text-align: center; color: #fff;">ОСТАВЬТЕ ЗАЯВКУ</h3>
 									
 									<!--- Стандартная форма №2 !--->
-					<form action="http://invictaglobal.ru/formsend.php" enctype="multipart/form-data" method="post" class="style2">
+					<form action="http://arinvicta.com/formsend.php" enctype="multipart/form-data" method="post" class="style2">
 
 					<table style="width: 100%; margin: 0 auto;" cellspacing="0">
 					<tbody>
@@ -325,15 +325,15 @@
                                     </div>
 
                                     <div class="uk-width-8-10" style="font: normal 18px / 26px 'Droid Serif', serif;">
-                                        <a href="mailto:invicta39@mail.ru"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">invicta39@mail.ru</font></font></a>
+                                        <a href="mailto:arinvictakd@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font></font></a>
                                     </div>
                                 </div>
                             </li>
                         </ul>
                         <h4  style="margin-top: 0px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Подписывайтесь на нас</font></font></h4>
                         <a href="https://www.instagram.com/shaigardanova39/" class="uk-icon-button uk-icon-instagram" target="_blank"></a>
-                        <a href="#" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
-                        <a href="https://m.vk.com/invicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
+                        <a href="https://facebook.com/troitskayaklgd" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                        <a href="https://vk.com/arinvicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
                     </div>
                 </div>
 
@@ -352,7 +352,9 @@
 					</div>
 				</div>
 			</div>
+			
           <?php include ("footer.php"); ?>
+</div>			
 
             <!-- vendor scripts -->
             <script src="assets/jquery.js"></script>

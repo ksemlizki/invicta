@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Invicta</title>
+        <title>Arinvicta</title>
 		<meta name="description" content="Макияж, микроблейдинг">
 		<meta name="author" content="Макияж, микроблейдинг">
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
@@ -35,11 +35,11 @@
 
             <div class="uk-overlay-panel uk-flex uk-flex-center uk-flex-middle uk-text-center">
                 <div>
-                    <p class="bh-teaser-subtitle-primary bh-text-uppercase uk-animation-slide-top bh-animation-delay-300">Invicta</p>
-                    <h1 class="bh-teaser-headline uk-margin-remove uk-animation-fade bh-animation-delay-200" style="color: #fff;">Invicta Международный учебный центр перманентного макияжа и микроблейдинга</h1>
+                    <p class="bh-teaser-subtitle-primary bh-text-uppercase uk-animation-slide-top bh-animation-delay-300">Arinvicta</p>
+                    <h1 class="bh-teaser-headline uk-margin-remove uk-animation-fade bh-animation-delay-200" style="color: #fff;">Arinvicta Международный учебный центр перманентного макияжа и микроблейдинга</h1>
 
                     <p class="uk-margin-bottom-remove">
-                        <a href="training.html" class="uk-button uk-button-large bh-button-secondary uk-margin-right uk-animation-fade bh-animation-delay-500">Обучение</a>
+                        <a href="training.php" class="uk-button uk-button-large bh-button-secondary uk-margin-right uk-animation-fade bh-animation-delay-500">Обучение</a>
                         
                     </p>
                 </div>
@@ -71,11 +71,11 @@
 
             <div class="uk-overlay-panel uk-flex uk-flex-center uk-flex-middle uk-text-center">
                 <div>
-                    <p class="bh-teaser-subtitle-primary uk-text-contrast bh-text-uppercase uk-animation-slide-top bh-animation-delay-300">Invicta</p>
+                    <p class="bh-teaser-subtitle-primary uk-text-contrast bh-text-uppercase uk-animation-slide-top bh-animation-delay-300">Arinvicta</p>
                     <h1 class="bh-teaser-headline uk-text-contrast uk-margin-remove uk-animation-fade bh-animation-delay-200">Матер класс по перманентному макияжу</h1>
                     <p class="bh-teaser-subtitle-secondary uk-text-contrast bh-text-uppercase uk-visible-large uk-animation-slide-bottom bh-animation-delay-300">Три зоны, отработка на латексе</p>
                     <p>
-                        <a href="training.html" class="uk-button uk-button-large bh-button-secondary bh-button-secondary-contrast uk-animation-fade bh-animation-delay-500">Обучение</a>
+                        <a href="training.php" class="uk-button uk-button-large bh-button-secondary bh-button-secondary-contrast uk-animation-fade bh-animation-delay-500">Обучение</a>
                     </p>
                 </div>
             </div>
@@ -83,7 +83,7 @@
             <a data-uk-slideshow-item="previous" href="#" class="uk-slidenav uk-slidenav-previous uk-hidden-small">
                 <div class="bh-slideshow-preview">
                     <img class="bh-slideshow-preview-image" src="images/shop-2-1.jpg" width="120" height="120" data-demo-style>
-                    <h4 class="uk-text-muted uk-margin-top-remove uk-margin-small-bottom">Invicta Международный учебный центр перманентного макияжа и микроблейдинга</h4>
+                    <h4 class="uk-text-muted uk-margin-top-remove uk-margin-small-bottom">Arinvicta Международный учебный центр перманентного макияжа и микроблейдинга</h4>
 
                 </div>
             </a>
@@ -101,11 +101,11 @@
 
             <div class="uk-overlay-panel uk-flex uk-flex-center uk-flex-middle uk-text-center">
                 <div>
-                    <p class="bh-teaser-subtitle-primary uk-text-contrast bh-text-uppercase uk-animation-slide-top bh-animation-delay-300">Invicta</p>
+                    <p class="bh-teaser-subtitle-primary uk-text-contrast bh-text-uppercase uk-animation-slide-top bh-animation-delay-300">Arinvicta</p>
                     <h1 class="bh-teaser-headline uk-text-contrast uk-margin-remove uk-animation-fade bh-animation-delay-200">Акция на курс перманентный макияж</h1>
                     <p class="bh-teaser-subtitle-secondary uk-text-contrast bh-text-uppercase uk-visible-large uk-animation-slide-bottom bh-animation-delay-300">ПРОФЕССИОНАЛЬНЫЙ АППАРАТ ДЛЯ ПЕРМАНЕНТНОГО МАКИЯЖА В ПОДАРОК! </p>
                     <p>
-                        <a href="training.html" class="uk-button uk-button-large bh-button-secondary bh-button-secondary-contrast uk-margin-right uk-animation-fade bh-animation-delay-500">Подробнее</a>
+                        <a href="training.php" class="uk-button uk-button-large bh-button-secondary bh-button-secondary-contrast uk-margin-right uk-animation-fade bh-animation-delay-500">Подробнее</a>
                     </p>
                 </div>
             </div>
@@ -121,7 +121,7 @@
             <a data-uk-slideshow-item="next" href="#" class="uk-slidenav uk-slidenav-next uk-hidden-small">
                 <div class="bh-slideshow-preview">
                     <img class="bh-slideshow-preview-image" src="images/shop-2-1.jpg" width="120" height="120" data-demo-style>
-                    <h4 class="uk-text-muted uk-margin-top-remove uk-margin-small-bottom">Invicta Международный учебный центр перманентного макияжа и микроблейдинга</h4>
+                    <h4 class="uk-text-muted uk-margin-top-remove uk-margin-small-bottom">Arinvicta Международный учебный центр перманентного макияжа и микроблейдинга</h4>
                 </div>
             </a>
         </li>
@@ -158,7 +158,7 @@
 	<p style="font: 400 26px/30px 'Droid Serif', serif; margin: 0 0 10px 0; text-align: center; ">ОСТАВЬТЕ ЗАЯВКУ</p>	
 
 <!--- Стандартная форма №2 !--->
-					<form action="http://invictaglobal.ru/formsend.php" enctype="multipart/form-data" method="post" class="style2">
+					<form action="http://arinvicta.com/formsend.php" enctype="multipart/form-data" method="post" class="style2">
 
 					<table style="width: 100%; margin: 0 auto;" cellspacing="0">
 					<tbody>
@@ -381,23 +381,23 @@
 <div class="bh-position bh-position-primary"  style="background: #000 url(images/brovi.png) fixed; background-repeat: no-repeat;">
 	<div class="uk-container uk-container-center">
 	    <div class="uk-panel">
-            <h1 style="color: #fff; text-align: center;">INVICTA МЕЖДУНАРОДНЫЙ УЧЕБНЫЙ ЦЕНТР ПЕРМАНЕНТНОГО МАКИЯЖА И МИКРОБЛЕЙДИНГА</h1>
+            <h1 style="color: #fff; text-align: center;">ARINVICTA МЕЖДУНАРОДНЫЙ УЧЕБНЫЙ ЦЕНТР ПЕРМАНЕНТНОГО МАКИЯЖА И МИКРОБЛЕЙДИНГА</h1>
         </div>
 	    <div class="uk-panel uk-panel-space">
 			<div class="uk-grid uk-grid-divider" data-uk-grid-margin="" data-uk-grid-match="{target:'> div > .uk-panel'}">
 				<div class="uk-width-medium-1-3 uk-text-center">
 					<div class="uk-panel" style="min-height: 52px;">
-						 <a href="training.html" class="uk-button uk-button-primary uk-button-large">&nbsp;&nbsp;&nbsp; все курсы &nbsp;&nbsp;&nbsp;</a>
+						 <a href="training.php" class="uk-button uk-button-primary uk-button-large">&nbsp;&nbsp;&nbsp; все курсы &nbsp;&nbsp;&nbsp;</a>
 					</div>
 				</div>
 				<div class="uk-width-medium-1-3 uk-text-center">
 					<div class="uk-panel" style="min-height: 52px;">
-						 <a href="trainers.html" class="uk-button uk-button-primary uk-button-large">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Тренеры &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+						 <a href="trainers.php" class="uk-button uk-button-primary uk-button-large">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Тренеры &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 					</div>
 				</div>
 				<div class="uk-width-medium-1-3 uk-text-center">
 					<div class="uk-panel" style="min-height: 52px;">
-						 <a href="about.html" class="uk-button uk-button-primary uk-button-large">&nbsp;&nbsp;&nbsp;&nbsp; О центре &nbsp;&nbsp;&nbsp;&nbsp;</a>
+						 <a href="about.php" class="uk-button uk-button-primary uk-button-large">&nbsp;&nbsp;&nbsp;&nbsp; О центре &nbsp;&nbsp;&nbsp;&nbsp;</a>
 					</div>
 				</div>				
 			</div>
@@ -570,7 +570,7 @@
 					 <h3 class="uk-panel-title" style="text-align: center; color: #fff;">ОСТАВЬТЕ ЗАЯВКУ</h3>
 									
 									<!--- Стандартная форма №2 !--->
-					<form action="http://invictaglobal.ru/formsend.php" enctype="multipart/form-data" method="post" class="style2">
+					<form action="http://arinvicta.com/formsend.php" enctype="multipart/form-data" method="post" class="style2">
 
 					<table style="width: 100%; margin: 0 auto;" cellspacing="0">
 					<tbody>
@@ -643,15 +643,15 @@
                                     </div>
 
                                     <div class="uk-width-8-10" style="font: normal 18px / 26px 'Droid Serif', serif;">
-                                        <a href="mailto:invicta39@mail.ru"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">invicta39@mail.ru</font></font></a>
+                                        <a href="mailto:arinvictakd@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font></font></a>
                                     </div>
                                 </div>
                             </li>
                         </ul>
                         <h4  style="margin-top: 0px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Подписывайтесь на нас</font></font></h4>
                         <a href="https://www.instagram.com/shaigardanova39/" class="uk-icon-button uk-icon-instagram" target="_blank"></a>
-                        <a href="#" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
-                        <a href="https://m.vk.com/invicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
+                        <a href="https://ru-ru.facebook.com/troitskayaklgd" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                        <a href="https://vk.com/arinvicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
                     </div>
                 </div>
 

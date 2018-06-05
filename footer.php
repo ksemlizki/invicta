@@ -2,7 +2,7 @@
 <footer class="bh-footer uk-text-center-small">
 	<div class="uk-container uk-container-center uk-position-relative">
 		<span class="uk-hidden-small">
-			«Invicta» Международный учебный центр перманентного макияжа и микроблейдинга &copy; 2017 Все права защищены.
+			«Arinvicta» Международный учебный центр перманентного макияжа и микроблейдинга &copy; 2017 Все права защищены.
 		</span>
 		<a class="bh-topscroller" data-uk-smooth-scroll href="#">
 			<i class="uk-icon-angle-up"></i>

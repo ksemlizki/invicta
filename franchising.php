@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Invicta</title>
+        <title>Arinvicta</title>
 		<meta name="description" content="Франчайзинг">
 		<meta name="author" content="Франчайзинг">
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
@@ -47,7 +47,7 @@
 				<div class="uk-width-medium-4-6 uk-text-center-small">
 					<div class="uk-panel" style="min-height: 81px;">
 						<p style="font: normal 20px / 26px 'Droid Serif', serif; text-align: justify;">
-						<b>Invicta</b> – салон красоты и учебный центр это уникальный проект который совмещает все востребованные направления в сфере красоты, а так же предоставляет обучение мастеров и выдаёт сертификаты Европейского образца. Вы можете начать работать по любому направлению как салон красоты и у Вас будет возможность постоянно расти будь то Brow Bar, перманентный макияж, микроблейдинг или образовательный центр по превращению учеников в мастеров по Микроблейдингу 6D или перманентному макияжу, которые смогут работать у Вас и предоставлять высокое качество услуг по Вашему региону.<br><br>
+						<b>Arinvicta</b> – салон красоты и учебный центр это уникальный проект который совмещает все востребованные направления в сфере красоты, а так же предоставляет обучение мастеров и выдаёт сертификаты Европейского образца. Вы можете начать работать по любому направлению как салон красоты и у Вас будет возможность постоянно расти будь то Brow Bar, перманентный макияж, микроблейдинг или образовательный центр по превращению учеников в мастеров по Микроблейдингу 6D или перманентному макияжу, которые смогут работать у Вас и предоставлять высокое качество услуг по Вашему региону.<br><br>
 						<b>По вопросам франчайзинга: </b>
 						Мария<br>
 						troitskayaklgd@mail.ru</p>
@@ -67,7 +67,7 @@
 	<p style="font: 400 26px/30px 'Droid Serif', serif; margin: 0 0 10px 0; text-align: center; ">ОСТАВЬТЕ ЗАЯВКУ</p>	
 
 <!--- Стандартная форма №2 !--->
-					<form action="http://invictaglobal.ru/formsend.php" enctype="multipart/form-data" method="post" class="style2">
+					<form action="http://arinvicta.com/formsend.php" enctype="multipart/form-data" method="post" class="style2">
 
 					<table style="width: 100%; margin: 0 auto;" cellspacing="0">
 					<tbody>
@@ -158,15 +158,18 @@
                                     </div>
 
                                     <div class="uk-width-8-10" style="font: normal 18px / 26px 'Droid Serif', serif;">
-									<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">invicta39@mail.ru</font></font></div>
+                                     <a href="mailto:arinvictakd@gmail.com">
+									<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font></font>
+									 </a>
+									</div>
                                 </div>
                         </div>
 
                         <div class="uk-width-small-1-2 uk-width-medium-1-3">
                             <h4  style="margin: 0 0 5px 0;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Подписывайтесь на нас</font></font></h4>
                         <a href="https://www.instagram.com/shaigardanova39/" class="uk-icon-button uk-icon-instagram" target="_blank"></a>
-                        <a href="#" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
-                        <a href="https://m.vk.com/invicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
+                        <a href="https://facebook.com/troitskayaklgd" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                        <a href="https://vk.com/arinvicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
                         </div>
 
                     </div>

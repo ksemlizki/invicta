@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Invicta</title>
+        <title>Arinvicta</title>
 		<meta name="description" content="Галерея">
 		<meta name="author" content="Галерея">
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
@@ -28,7 +28,7 @@
 <div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
-            <h1>Галерея центра «Invicta»</h1>
+            <h1>Галерея центра «Arinvicta»</h1>
         </div>
     </div>
 </div>
@@ -711,15 +711,18 @@
                                     </div>
 
                                     <div class="uk-width-8-10" style="font: normal 18px / 26px 'Droid Serif', serif;">
-									<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">invicta39@mail.ru</font></font></div>
+                                     <a href="mailto:arinvictakd@gmail.com">
+										<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font>
+									</a>
+									</div>
                                 </div>
                         </div>
 
                         <div class="uk-width-small-1-2 uk-width-medium-1-3">
                             <h4  style="margin: 0 0 5px 0;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Подписывайтесь на нас</font></font></h4>
                         <a href="https://www.instagram.com/shaigardanova39/" class="uk-icon-button uk-icon-instagram" target="_blank"></a>
-                        <a href="#" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
-                        <a href="https://m.vk.com/invicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
+                        <a href="https://facebook.com/troitskayaklgd" class="uk-icon-button uk-icon-facebook" target="_blank"></a>
+                        <a href="https://vk.com/arinvicta39" class="uk-icon-button uk-icon-vk" target="_blank"></a>
                         </div>
 
                     </div>
