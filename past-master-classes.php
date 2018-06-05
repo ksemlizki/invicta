@@ -265,8 +265,7 @@
                                     </div>
 
                                     <div class="uk-width-8-10" style="font: normal 18px / 26px 'Droid Serif', serif;">
-                                     <a href="mailto:arinvictakd@gmail.com">
-									<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font></font></a>
+                                     <a href="mailto:arinvictakd@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arinvictakd@gmail.com</font></font></a>
 									</div>
                                 </div>
                         </div>
