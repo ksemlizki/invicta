@@ -22,10 +22,10 @@
     </head>
 
     <body>
-<div class="uk-container uk-container-center" style="width: 1600px">
 
         <?php include ("header.php"); ?>
-<div class="bh-position-title invicta_bg">
+<div style="float: left;"><img src="images/logo-1.jpg" style="height: 200px" > </div>        
+<div  class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
             <h1>О НАС</h1>
@@ -354,7 +354,7 @@
 			</div>
 			
           <?php include ("footer.php"); ?>
-</div>			
+			
 
             <!-- vendor scripts -->
             <script src="assets/jquery.js"></script>

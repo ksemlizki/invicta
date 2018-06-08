@@ -13,14 +13,9 @@
 
 <div id="offcanvas" class="uk-offcanvas">
 	<div class="uk-offcanvas-bar">
-		<form class="uk-search">
-			<a href="#">
-				<img src="images/logo-1.png" width="200" alt="Product Image">
-			</a>
-		</form>
 		<ul class="uk-nav uk-nav-offcanvas">
 			<li class="uk-parent">
-				<a href="index.php">Home</a>
+				<a href="index.php">Главная</a>
 			</li>
 			<li class="uk-parent">
 				<a href="training.php">Обучение</a>

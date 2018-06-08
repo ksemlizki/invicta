@@ -19,12 +19,15 @@
 <style>
 #ma { background: #000 url(images/navy_blue.jpg); box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); }
 </style>
+
+
     </head>
 
     <body>
 
         <?php include ("header.php"); ?>
-
+        
+        
 <div class="bh-position-title invicta_bg">
     <div class="uk-container uk-container-center">
         <div class="uk-panel">
@@ -205,5 +208,7 @@
 
             <!-- demo related script - remove it!  -->
             <script src="demo.js"></script>
+            
+            
     </body>
 </html>

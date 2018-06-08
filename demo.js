@@ -35,11 +35,9 @@
             $(this).parents('li').removeClass('uk-active');
         });
 
-
-        if(location.pathname.match(/\.html$/)) {
+        if(location.pathname.match(/\.php$/)) {
 
             var url = location.pathname.split('/').slice(-1)[0];
-
 
             $('a[href="'+url+'"]').each(function(){
                 $(this).parents('li').addClass('uk-active');

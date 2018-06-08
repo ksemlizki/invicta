@@ -1,23 +1,27 @@
 <div class="bh-header" data-uk-sticky="{top:-1}">
             <div class="bh-navbar">
-
+<!-- 
                 <a class="bh-logo uk-visible-large" href="index.php"><div class="uk-navbar-brand"><span class="uk-text-primary">In</span>victa</div></a>
 
                 <a class="bh-logo-small uk-hidden-large" href="index.php"><div class="uk-navbar-brand"><span class="uk-text-primary">In</span>victa</div></a>
-
+ -->
+			
                 <!-- img use like this -->
                 <!-- <a class="bh-logo" href="index.php">
                     <img class="uk-responsive-height" src="" width="" height="">
                 </a> -->
 
                 <nav class="uk-navbar uk-text-center">
+                     <a  href="index.php">
+				<img src="images/logo-1.jpg" style="height: 70px" alt="Product Image">
+			</a>
                     <div class="bh-navbar-nav-wrapper uk-visible-large">
                         <ul class="uk-navbar-nav">
                             <li class="uk-parent"><a href="training.php">Обучение</a></li>
 							<li class="uk-parent"><a href="trainers.php">Тренеры</a></li>
 							<li class="uk-parent"><a href="models.php">Моделям</a></li>
                             <li class="uk-parent" data-uk-dropdown>
-                                <a href="#" class="uk-active">О центре</a>
+                                <a href="#">О центре</a>
                                 <div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-3">
                                     <div class="uk-grid uk-dropdown-grid">
                                         <div class="uk-width-medium-1-3">
